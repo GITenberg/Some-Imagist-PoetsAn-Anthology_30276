@@ -10,7 +10,7 @@ creator:
     - Davison, Lawrence H. (Lawrence Herbert)
     - Lawrence, D.H.
     - Lawrence, David Herbert
-    birthdate: &id002 1885
+    birthdate: 1885
     deathdate: 1930
     gutenberg_agent_id: '123'
     url: http://www.gutenberg.org/2009/agents/123
@@ -29,13 +29,13 @@ creator:
     - Alton, Delia
     - Aldington, Hilda Doolittle
     - Doolittle, Hilda
-    birthdate: &id001 1886
+    birthdate: 1886
     deathdate: 1961
     gutenberg_agent_id: '33478'
     url: http://www.gutenberg.org/2009/agents/33478
     wikipedia: http://en.wikipedia.org/wiki/H.D.
   - agent_name: Fletcher, John Gould
-    birthdate: *id001
+    birthdate: 1886
     deathdate: 1950
     gutenberg_agent_id: '32529'
     url: http://www.gutenberg.org/2009/agents/32529
@@ -51,12 +51,14 @@ creator:
     - Flint, Frank Stuart
     - Flint, Frank Stewart
     - Flint, F. S. (Frank Stuart)
-    birthdate: *id002
+    birthdate: 1885
     deathdate: 1960
     gutenberg_agent_id: '34483'
     url: http://www.gutenberg.org/2009/agents/34483
     wikipedia: http://en.wikipedia.org/wiki/F._S._Flint
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30276#Some-Imagist-PoetsAn-Anthology
 gutenberg_bookshelf: Poetry
 gutenberg_issued: '2009-10-17'
 gutenberg_type: Text
