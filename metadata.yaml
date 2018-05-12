@@ -1,0 +1,75 @@
+_repo: Some-Imagist-PoetsAn-Anthology_30276
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Lawrence, D. H. (David Herbert)
+    aliases:
+    - Davison, Lawrence H. (Lawrence Herbert)
+    - Lawrence, D.H.
+    - Lawrence, David Herbert
+    birthdate: &id002 1885
+    deathdate: 1930
+    gutenberg_agent_id: '123'
+    url: http://www.gutenberg.org/2009/agents/123
+    wikipedia: http://en.wikipedia.org/wiki/D._H._Lawrence
+  - agent_name: Aldington, Richard
+    alias: Oldington, Richard
+    birthdate: 1892
+    deathdate: 1962
+    gutenberg_agent_id: '34481'
+    url: http://www.gutenberg.org/2009/agents/34481
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Aldington
+  - agent_name: H. D. (Hilda Doolittle)
+    aliases:
+    - Helforth, John
+    - H.D.
+    - Alton, Delia
+    - Aldington, Hilda Doolittle
+    - Doolittle, Hilda
+    birthdate: &id001 1886
+    deathdate: 1961
+    gutenberg_agent_id: '33478'
+    url: http://www.gutenberg.org/2009/agents/33478
+    wikipedia: http://en.wikipedia.org/wiki/H.D.
+  - agent_name: Fletcher, John Gould
+    birthdate: *id001
+    deathdate: 1950
+    gutenberg_agent_id: '32529'
+    url: http://www.gutenberg.org/2009/agents/32529
+    wikipedia: http://en.wikipedia.org/wiki/John_Gould_Fletcher
+  - agent_name: Lowell, Amy
+    birthdate: 1874
+    deathdate: 1925
+    gutenberg_agent_id: '147'
+    url: http://www.gutenberg.org/2009/agents/147
+    wikipedia: http://en.wikipedia.org/wiki/Amy_Lowell
+  - agent_name: Flint, F. S. (Frank Stewart)
+    aliases:
+    - Flint, Frank Stuart
+    - Flint, Frank Stewart
+    - Flint, F. S. (Frank Stuart)
+    birthdate: *id002
+    deathdate: 1960
+    gutenberg_agent_id: '34483'
+    url: http://www.gutenberg.org/2009/agents/34483
+    wikipedia: http://en.wikipedia.org/wiki/F._S._Flint
+description: ''
+gutenberg_bookshelf: Poetry
+gutenberg_issued: '2009-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30276'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'American poetry -- 20th century'
+- !lcsh 'English poetry -- 20th century'
+- !lcsh 'Imagist poetry'
+title: 'Some Imagist Poets: An Anthology'
+url: http://www.gutenberg.org/ebooks/30276
